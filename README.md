@@ -112,5 +112,4 @@ I'm currently sharpening my skills in:
 
 - GitHub: [@Ambuso](https://github.com/Ambuso)
 - LinkedIn: [Dismas Mike](https://www.linkedin.com/in/dismas-mike-ba14362b1/)
-- Portfolio: Add your portfolio link
 - Email: dismasmik3@gmail.com
