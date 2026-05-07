@@ -49,41 +49,6 @@ My strongest focus is combining **data engineering + geospatial intelligence** t
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-
-## Featured Projects
-
-### Africa Power Atlas
-Interactive geospatial data platform for visualizing Africa's power infrastructure, including power plants, transmission lines, substations, fuel types, and energy capacity.
-
-**Tools:** Python, GeoPandas, MapLibre GL, GeoJSON, PostgreSQL/PostGIS  
-**Focus:** Geospatial data engineering, energy infrastructure, interactive mapping
-
----
-
-### Crypto ETL Airflow Pipeline
-Automated data pipeline that ingests live cryptocurrency market data from public APIs, stores hourly snapshots in PostgreSQL, and enables trend analysis.
-
-**Tools:** Python, Apache Airflow, PostgreSQL, SQL, APIs  
-**Focus:** ETL, orchestration, time-series snapshots, database design
-
----
-
-### YouTube Data Warehouse Pipeline
-Data pipeline for extracting, transforming, and loading YouTube channel analytics into PostgreSQL using Python, Spark, and Airflow.
-
-**Tools:** Python, PySpark, Apache Airflow, PostgreSQL, YouTube API  
-**Focus:** API ingestion, Spark transformations, warehouse modeling
-
----
-
-### Nairobi Spatial Streaming Pipeline
-Real-time geospatial data pipeline concept for urban monitoring using Kafka, Spark Streaming, PostGIS, and dashboards.
-
-**Tools:** Kafka, Spark Structured Streaming, PostGIS, Python, Power BI  
-**Focus:** Real-time data engineering, urban analytics, geospatial streaming
-
----
-
 ## Current Focus
 
 I'm currently sharpening my skills in:
